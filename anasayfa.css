@@ -1,0 +1,32 @@
+table{
+border:1px;
+width:900px;
+margin:auto;
+}
+.top{
+height:130px;
+background-image:url(r32.jpg); 
+background-size:900px 200px;
+}
+.menu{
+width:250px;
+height:400px;
+background-color:rgb(150,180,089,1);
+}
+.mainpage{
+background-image: url(rrr.jpg);
+background-size:cover;
+}
+.bottom{
+height:130px; background-image:url(r33.jpg);
+background-size:900px 130px;
+
+}
+iframe{
+width:650px;
+height:400px;
+opacity:0.8;
+}
+ul{
+list-style-type:none;
+}

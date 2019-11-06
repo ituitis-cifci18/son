@@ -1,0 +1,75 @@
+body{
+background-color:rgb(150,180,089,1)}
+.top{
+width: 1200px;
+margin: 0 0 0 0;
+height: 200px;
+background-color:blue;
+position:absolute;
+float:left;
+background-image:url(r32.jpg); 
+background-size:1200px 200px;
+border-radius:0 100px 0 0;
+}
+.left{
+
+width: 600px;
+margin: 200px 0 0 0;
+height: 1200px;
+background-color:red;
+position:absolute;
+float:left;
+border-radius:0 0 0 100px;
+}
+.right{
+margin: 200px 0 0 600px;
+width: 600px;
+height: 1200px;
+background-color:rgb(150,0,0,0.5);
+position:absolute;
+float:left;
+text-align:center;
+}
+.center{
+border-radius:0 50px;
+font:15px tahoma;
+margin:250px 0 0 450px;
+width: 300px;
+height: 500px;
+background-color:rgb(150,081,015,0.8);
+float:left;
+position:absolute;
+}
+.all{
+width:%100;
+margin: 0 880px 0 88px;}
+table{
+margin:50px 0 0 0;
+border:1px solid black;
+width:300px;
+}
+td{
+height:20px;
+border:1px solid black;
+}
+th{
+background-color:rgb(130,0,0,1);
+height:20px;
+border:1px solid black;
+}
+tr:hover{background-color:rgb(150,180,089,0.5);}
+.td1{
+background-color:rgb(150,180,089,0.5);
+}
+details:hover{background-color:rgb(100,102,089,0.5);}
+details{border-radius:10px;
+width:400px;}
+.poems{
+margin:0 0 0 150px;
+width:400px;
+font-size:15px;
+text-align:left;
+font-style:italic;}
+poems:hover{background-color:rgb(100,102,089,0.5);}
+h1{text-align:center;}
+

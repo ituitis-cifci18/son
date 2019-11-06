@@ -1,0 +1,16 @@
+table{
+border:1px solid black;
+width:400px;
+background-color:rgba(120, 140, 150, 0.5);
+}
+td{height:45px;
+border:1px solid black;}
+th{background-color:rgba(154,21,10,0.7);
+height:25px;
+border:1px solid black;}
+tr{
+border:1px solid black;}
+.center{
+margin:auto;
+width:400px;
+}
