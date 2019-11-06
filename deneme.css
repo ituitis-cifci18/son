@@ -7,7 +7,7 @@ height: 200px;
 background-color:blue;
 position:absolute;
 float:left;
-background-image:url(r32.jpg); 
+background-image:url(img/r32.jpg); 
 background-size:1200px 200px;
 border-radius:0 100px 0 0;
 }
@@ -41,7 +41,7 @@ float:left;
 position:absolute;
 }
 .all{
-width:%100;
+width:100%;
 margin: 0 880px 0 88px;}
 table{
 margin:50px 0 0 0;
@@ -72,4 +72,9 @@ text-align:left;
 font-style:italic;}
 poems:hover{background-color:rgb(100,102,089,0.5);}
 h1{text-align:center;}
-
+.emblemimg{
+width:200px;
+margin:10px;
+height:180px;
+background-color:rgba(100,100,100,0.6);
+}

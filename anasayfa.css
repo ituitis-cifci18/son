@@ -5,7 +5,7 @@ margin:auto;
 }
 .top{
 height:130px;
-background-image:url(r32.jpg); 
+background-image:url(img/r32.jpg); 
 background-size:900px 200px;
 }
 .menu{
@@ -14,12 +14,12 @@ height:400px;
 background-color:rgb(150,180,089,1);
 }
 .mainpage{
-background-image: url(rrr.jpg);
+background-image: url(img/rrr.jpg);
 background-size:cover;
 }
 .bottom{
-height:130px; background-image:url(r33.jpg);
-background-size:900px 130px;
+height:150px; background-image:url(img/r33.jpg);
+background-size:900px 150px;
 
 }
 iframe{
@@ -30,3 +30,26 @@ opacity:0.8;
 ul{
 list-style-type:none;
 }
+.emblem{
+margin:0 0 0 30px;
+width:150px;
+height:135px;
+position:fixed;
+}
+.emblemimg{
+width:150px;
+height:135px;
+}
+.pp{
+	width:200px;
+	height:220px;
+	position:fixed;
+	margin:200px 0 0 5px;
+	opacity:0.7;
+	text-align:center;
+	font-size:25px;
+	}
+.ppimg{width:200px;
+	height:200px;
+	border-radius:110px;}
+.pp:hover{opacity:1;}

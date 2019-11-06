@@ -1,6 +1,7 @@
 table{
 border:1px solid black;
 width:400px;
+color:white;
 background-color:rgba(120, 140, 150, 0.5);
 }
 td{height:45px;
