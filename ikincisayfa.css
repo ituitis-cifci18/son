@@ -15,3 +15,16 @@ border:1px solid black;}
 margin:auto;
 width:400px;
 }
+.ins{background-size:70px 45px;}
+.face{background-size:70px 45px;}
+.lin{background-size:74px 45px;}
+.tel{background-size:70px 45px;}
+.tw{background-size:70px 45px;}
+.ml{background-size:70px 45px;}
+.ins:hover{background-image:url(img/ig.png);opacity:0.6;}
+.face:hover{background-image:url(img/fb.png);opacity:0.6;}
+.lin:hover{background-image:url(img/lin.png);opacity:0.6;}
+.tel:hover{background-image:url(img/tel.png);opacity:0.6;}
+.tw:hover{background-image:url(img/tw.png);opacity:0.6;}
+.ml:hover{background-image:url(img/gm.png);opacity:0.6;}
+}
